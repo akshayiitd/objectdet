@@ -1,0 +1,27 @@
+<annotation>
+  <filename>2df2af350eaae663.jpg</filename>
+  <size>
+      <width>1024</width>
+      <height>768</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>Plate</name>
+      <bndbox>
+          <xmin>157.8</xmin>
+          <ymin>598.759488</ymin>
+          <xmax>193.64</xmax>
+          <ymax>618.6</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>Plate</name>
+      <bndbox>
+          <xmin>755.0</xmin>
+          <ymin>583.600128</ymin>
+          <xmax>778.6800000000001</xmax>
+          <ymax>595.7598720000001</ymax>
+      </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,18 @@
+<annotation>
+  <filename>93741e957e1bc7b3.jpg</filename>
+  <size>
+      <width>681</width>
+      <height>1024</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>Plate</name>
+      <bndbox>
+          <xmin>206.087538</xmin>
+          <ymin>762.8399999999999</ymin>
+          <xmax>351.376164</xmax>
+          <ymax>794.2</ymax>
+      </bndbox>
+  </object>
+</annotation>

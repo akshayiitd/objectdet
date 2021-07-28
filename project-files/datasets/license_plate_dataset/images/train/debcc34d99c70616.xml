@@ -1,0 +1,18 @@
+<annotation>
+  <filename>debcc34d99c70616.jpg</filename>
+  <size>
+      <width>1024</width>
+      <height>683</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>Plate</name>
+      <bndbox>
+          <xmin>137.56</xmin>
+          <ymin>222.30409949999995</ymin>
+          <xmax>295.64</xmax>
+          <ymax>336.35075649999993</ymax>
+      </bndbox>
+  </object>
+</annotation>

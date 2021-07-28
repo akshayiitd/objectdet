@@ -1,0 +1,27 @@
+<annotation>
+  <filename>fa3341da3df30ac5.jpg</filename>
+  <size>
+      <width>1024</width>
+      <height>681</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>Plate</name>
+      <bndbox>
+          <xmin>618.6166400000001</xmin>
+          <ymin>486.0764999999999</ymin>
+          <xmax>837.169984</xmax>
+          <ymax>564.3915</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>Plate</name>
+      <bndbox>
+          <xmin>848.2332799999999</xmin>
+          <ymin>48.8385</ymin>
+          <xmax>891.8085759999999</xmax>
+          <ymax>67.22550000000001</ymax>
+      </bndbox>
+  </object>
+</annotation>
